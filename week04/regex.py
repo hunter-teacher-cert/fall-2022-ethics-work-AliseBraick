@@ -1,6 +1,6 @@
 # I am not sure if i should include the names in a sentence or a paragraph. I just generate
 # a list of names.
-
+# I used https://regexr.com/ to test 
 # [A-Z] match a character in the range "A to "Z"
 # [a-z] match a character in the range "a to "z"
 # [-,. '] matches any of these charcters
