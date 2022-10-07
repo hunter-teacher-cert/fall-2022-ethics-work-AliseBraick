@@ -16,12 +16,12 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 7-8.CT.8 // 9-12.CT.8: Algorithms and Programming (Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem. // Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.)
 
 ### Tools Used
-Thonny
-Repl.it
+*Thonny
+*Repl.it
 
 ### Resources
-https://www.codecademy.com/
-https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
+*https://www.codecademy.com/
+*https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
 
 
 ### Lessons
