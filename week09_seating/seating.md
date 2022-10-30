@@ -5,13 +5,15 @@
 * No pripority for family to be seated together. Kids might be seated away from both parents
 * Kids might end up seating at the exit
 
-# Suggested Algorithm
+# Suggested Equitable Algorithm
 
 ## All passngers should allow to choose their seats
 ### The seating map should indicate 
+
 * Seats reserved for people with disabilities
-* Block of seats reserved for families of more than two,  with extra $$$$)
-* Twin seats for a child and one parent (assigned automatically )
+* Block of seats reserved for families of more than two (with extra $$$)
+* Twin seats for a child and one parent (assigned automatically)
+* Twin seats for couple or friends ( with extra $$)
 * Exit area
 * Back seats_last row_Cheaper/passengers might be given some $$ incentive)
 * Seats with extra leg room (extra $$$$)
