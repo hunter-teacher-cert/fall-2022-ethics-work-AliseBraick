@@ -2,7 +2,7 @@
 ### Contributors: Alise Braick, Benjamin Eckley
 
 * The Airplane Seating program asks the user for the seat they would like to reserve.
-* layout of the plane is printed and an X is placed in the reserved seat. Cols A and A are windows, Ciols B and C are Aisle.
+* layout of the plane is printed and an X is placed in the reserved seat. Cols A and A are windows, Cols B and C are Aisle.
 * The program finds if the seat is available and if the entry is valid.  An input of 'q' ends the program.
   
 
